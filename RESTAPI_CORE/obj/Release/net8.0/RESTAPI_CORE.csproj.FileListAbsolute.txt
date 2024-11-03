@@ -1,0 +1,114 @@
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\appsettings.Development.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\appsettings.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.exe
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.deps.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.runtimeconfig.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.pdb
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.csproj.AssemblyReference.cache
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.Properties.Resources.resources
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.csproj.GenerateResource.cache
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.AssemblyInfoInputs.cache
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.AssemblyInfo.cs
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.csproj.CoreCompileInputs.cache
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.MvcApplicationPartsAssemblyInfo.cs
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.sourcelink.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\staticwebassets.build.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\staticwebassets.development.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.RESTAPI_CORE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.build.RESTAPI_CORE.props
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTAPI_CORE.props
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.RESTAPI_CORE.props
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\staticwebassets.pack.json
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\scopedcss\bundle\RESTAPI_CORE.styles.css
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.csproj.CopyComplete
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\refint\RESTAPI_CORE.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.pdb
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.genruntimeconfig.cache
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\obj\Release\net8.0\ref\RESTAPI_CORE.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.CrystalReports.Engine.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.Shared.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.Windows.Forms.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Windows.Forms.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\CrystalDecisions.ReportSource.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\FlashControlV71.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\Accessibility.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\System.Deployment.dll
+C:\Repositorio\ProyectoApiWebNet\RESTAPI_CORE\bin\Release\net8.0\ShockwaveFlashObjects.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\appsettings.Development.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\appsettings.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.exe
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.deps.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.runtimeconfig.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\RESTAPI_CORE.pdb
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\Microsoft.OpenApi.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\System.Data.SqlClient.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\System.Security.Permissions.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\System.Windows.Extensions.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\bin\Release\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.csproj.AssemblyReference.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.Properties.Resources.resources
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.csproj.GenerateResource.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.AssemblyInfoInputs.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.AssemblyInfo.cs
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.csproj.CoreCompileInputs.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.MvcApplicationPartsAssemblyInfo.cs
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.sourcelink.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\staticwebassets.build.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\staticwebassets.development.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.RESTAPI_CORE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.build.RESTAPI_CORE.props
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.RESTAPI_CORE.props
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.RESTAPI_CORE.props
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\staticwebassets.pack.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\scopedcss\bundle\RESTAPI_CORE.styles.css
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_.4A790AB1.Up2Date
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\refint\RESTAPI_CORE.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.pdb
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\RESTAPI_CORE.genruntimeconfig.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\RESTAPI_CORE\obj\Release\net8.0\ref\RESTAPI_CORE.dll

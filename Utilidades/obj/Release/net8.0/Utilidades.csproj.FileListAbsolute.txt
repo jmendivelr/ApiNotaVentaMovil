@@ -1,0 +1,13 @@
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\bin\Release\net8.0\Utilidades.deps.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\bin\Release\net8.0\Utilidades.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\bin\Release\net8.0\Utilidades.pdb
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.csproj.AssemblyReference.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.AssemblyInfoInputs.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.AssemblyInfo.cs
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.csproj.CoreCompileInputs.cache
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.sourcelink.json
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\refint\Utilidades.dll
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\Utilidades.pdb
+C:\Fuentes\app nota de venta\Nueva carpeta\ProyectoApiWebNet - copia (1)\ProyectoApiWebNet - copia\Utilidades\obj\Release\net8.0\ref\Utilidades.dll

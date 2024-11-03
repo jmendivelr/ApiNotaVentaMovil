@@ -1,0 +1,406 @@
+[
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "Guardar",
+    "RelativePath": "api/Cotizacion/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "System.Collections.Generic.List\u00601[[RESTAPI_CORE.Modelos.Cotizacion, RESTAPI_CORE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "GuardarConvencional",
+    "RelativePath": "api/Cotizacion/GuardarConvencional",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "RESTAPI_CORE.Modelos.Cotizacion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "KardexCotizacion",
+    "RelativePath": "api/Cotizacion/KardexCotizacion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codcliente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "KardexNotaIngreso",
+    "RelativePath": "api/Cotizacion/KardexNotaIngreso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codcliente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "KardexVenta",
+    "RelativePath": "api/Cotizacion/KardexVenta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "codcliente",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "Lista",
+    "RelativePath": "api/Cotizacion/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "Obtener",
+    "RelativePath": "api/Cotizacion/Obtener/{idcotizacion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idcotizacion",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.CotizacionController",
+    "Method": "SecuenciaCoti",
+    "RelativePath": "api/Cotizacion/SecuenciaCoti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codigo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "buscarArticulo",
+    "RelativePath": "api/Inventario/buscarArticulo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "codbarras",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "alm",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "lista",
+    "RelativePath": "api/Inventario/lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "listaalmacenes",
+    "RelativePath": "api/Inventario/listaalmacenes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "listaArticulo",
+    "RelativePath": "api/Inventario/listaArticulo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "alm",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "listaClientes",
+    "RelativePath": "api/Inventario/listaClientes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "ListadoNotas",
+    "RelativePath": "api/Inventario/ListadoNotas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CAALMA",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "CATD",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "listaProveedores",
+    "RelativePath": "api/Inventario/listaProveedores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "listatipodoc",
+    "RelativePath": "api/Inventario/listatipodoc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "listatransacingreso",
+    "RelativePath": "api/Inventario/listatransacingreso",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "listatransacsalida",
+    "RelativePath": "api/Inventario/listatransacsalida",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.NotasController",
+    "Method": "ProcesarNota",
+    "RelativePath": "api/Notas/procesarNota",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ventaData",
+        "Type": "VentaData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.ReglaController",
+    "Method": "Editar",
+    "RelativePath": "api/Regla/Editar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "RESTAPI_CORE.Modelos.Regla",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.ReglaController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Regla/Eliminar/{idR}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idR",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.ReglaController",
+    "Method": "Guardar",
+    "RelativePath": "api/Regla/Guardar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "RESTAPI_CORE.Modelos.Regla",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.ReglaController",
+    "Method": "Lista",
+    "RelativePath": "api/Regla/Lista",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.ReglaController",
+    "Method": "ObtenerR",
+    "RelativePath": "api/Regla/ObtenerR",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idR",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.ReportController",
+    "Method": "GeneratePDF",
+    "RelativePath": "api/Report/GeneratePDF",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RESTAPI_CORE.Controllers.UsuarioController",
+    "Method": "LoginUsuario",
+    "RelativePath": "api/Usuario/LoginUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "objeto",
+        "Type": "RESTAPI_CORE.Modelos.UsuarioLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
