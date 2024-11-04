@@ -976,11 +976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Fuentes\\app nota de venta\\Nueva carpeta\\ProyectoApiWebNet - copia (1)\\ProyectoApiWebNet - copia\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
+      "projectUniqueName": "C:\\Fuentes\\AppnotaVentas\\API\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
       "projectName": "RESTAPI_CORE",
-      "projectPath": "C:\\Fuentes\\app nota de venta\\Nueva carpeta\\ProyectoApiWebNet - copia (1)\\ProyectoApiWebNet - copia\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
+      "projectPath": "C:\\Fuentes\\AppnotaVentas\\API\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
       "packagesPath": "C:\\Users\\JAMER\\.nuget\\packages\\",
-      "outputPath": "C:\\Fuentes\\app nota de venta\\Nueva carpeta\\ProyectoApiWebNet - copia (1)\\ProyectoApiWebNet - copia\\RESTAPI_CORE\\obj\\",
+      "outputPath": "C:\\Fuentes\\AppnotaVentas\\API\\RESTAPI_CORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

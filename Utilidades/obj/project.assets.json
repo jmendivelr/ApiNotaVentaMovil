@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Fuentes\\app nota de venta\\Nueva carpeta\\ProyectoApiWebNet - copia (1)\\ProyectoApiWebNet - copia\\Utilidades\\Utilidades.csproj",
+      "projectUniqueName": "C:\\Fuentes\\AppnotaVentas\\API\\Utilidades\\Utilidades.csproj",
       "projectName": "Utilidades",
-      "projectPath": "C:\\Fuentes\\app nota de venta\\Nueva carpeta\\ProyectoApiWebNet - copia (1)\\ProyectoApiWebNet - copia\\Utilidades\\Utilidades.csproj",
+      "projectPath": "C:\\Fuentes\\AppnotaVentas\\API\\Utilidades\\Utilidades.csproj",
       "packagesPath": "C:\\Users\\JAMER\\.nuget\\packages\\",
-      "outputPath": "C:\\Fuentes\\app nota de venta\\Nueva carpeta\\ProyectoApiWebNet - copia (1)\\ProyectoApiWebNet - copia\\Utilidades\\obj\\",
+      "outputPath": "C:\\Fuentes\\AppnotaVentas\\API\\Utilidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

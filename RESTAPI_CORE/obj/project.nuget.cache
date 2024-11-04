@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EI4ZgfMe7JQ=",
+  "dgSpecHash": "yb72TTirQeI=",
   "success": true,
-  "projectFilePath": "C:\\Fuentes\\app nota de venta\\Nueva carpeta\\ProyectoApiWebNet - copia (1)\\ProyectoApiWebNet - copia\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
+  "projectFilePath": "C:\\Fuentes\\AppnotaVentas\\API\\RESTAPI_CORE\\RESTAPI_CORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JAMER\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.0\\microsoft.aspnetcore.components.analyzers.8.0.0.nupkg.sha512",
     "C:\\Users\\JAMER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",

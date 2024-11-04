@@ -282,6 +282,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "RESTAPI_CORE.Controllers.InventarioController",
+    "Method": "ProcesarNota",
+    "RelativePath": "api/Inventario/procesarInventario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ventaData",
+        "Type": "VentaData",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "RESTAPI_CORE.Controllers.NotasController",
     "Method": "ProcesarNota",
     "RelativePath": "api/Notas/procesarNota",
